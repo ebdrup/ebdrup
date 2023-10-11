@@ -1,11 +1,11 @@
 Hi 👋 My name is Allan Ebdrup
 =============================
 
-Founder
+Head of Engineering @ Marts
 -------
 
 * ✉️  You can contact me at [allan@878.dk](mailto:allan@878.dk)
-* 🚀  I'm currently working on [Tjaz](http://tjaz.com)
+* 🚀  I'm currently working on [Marts](http://marts.io)
 * 🧠  I'm learning EdTech
 
 ### Skills
