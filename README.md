@@ -6,7 +6,7 @@ Head of Engineering @ Marts
 
 * ✉️  You can contact me at [allan@878.dk](mailto:allan@878.dk)
 * 🚀  I'm currently working on [Marts](http://marts.io)
-* 🧠  I'm learning EdTech
+* 🧠  I'm learning IT department challenges
 
 ### Skills
 
